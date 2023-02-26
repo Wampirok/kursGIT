@@ -1,3 +1,5 @@
-Ala ma kota
+Ala ma kota i rybki i gowno
 
 Funkcjonalnosc A. 2.0
+
+Testowanie w branchu master 
